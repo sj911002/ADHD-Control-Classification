@@ -10,7 +10,7 @@ Steps involved:
     3.1.2. Logistic Regression   (Accuracy: 70.27%)  <br>
     3.1.3. KNN   (Accuracy: 62.16%)  <br>
     3.1.4. Naive Bayes  (Accuracy: 59.45%) <br>
-    3.1.5. Decision Trees  (Accuracy: 54.05%) <br>  
+    3.1.5. Decision Trees  (Accuracy: 54.05%)
     3.1.6. Random Forests (Accuracy: 59.45%) <br>
     3.1.7. SVM   (Accuracy: 78.37%) <br>
   *Unsupervised approaches:* <br>
