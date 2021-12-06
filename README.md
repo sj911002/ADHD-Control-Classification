@@ -5,7 +5,7 @@ Steps involved:
 1. Data preprocessing
 2. Visualisation and Analysis (Topographic maps)
 3. Modelling
-  Supervised Approaches: 
+  Supervised Approaches: <br>
     3.1.1. Perceptron    (Accuracy: 45.94%)
     3.1.2. Logistic Regression   (Accuracy: 70.27%)
     3.1.3. KNN   (Accuracy: 62.16%)
